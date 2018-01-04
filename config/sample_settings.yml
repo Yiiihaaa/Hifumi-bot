@@ -1,6 +1,6 @@
 Bot:
   # The bot token.
-  token: ""
+  token: "Mzk4NTM4NDg1MzUyNjI4MjI5.DS__oQ.H4oMdSEcMWDH6PLUn9embXFl6nE"
 
   # The default bot prefix.
   prefix: "~"
@@ -16,7 +16,7 @@ Bot:
 
   # List of bot owner's discord ids, as integers.
   owners:
-  -
+  - 315837127415824386
 
   colour: 0xff0000  # A hexadecimal colour used for embeds.
 
